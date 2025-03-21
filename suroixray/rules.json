@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "priority": 1,
+        "action": {
+            "type": "redirect",
+            "redirect": {
+                "url": "https://crazedcodernate.github.io/SuroiTest/fall-53201d69@1x-REPLACER.png"
+            }
+        },
+        "condition": {
+            "urlFilter": "||suroi.io/atlases/fall-53201d69@1x.png"
+        }
+    },
+    {
+        "id": 2,
+        "priority": 1,
+        "action": {
+            "type": "redirect",
+            "redirect": {
+                "url": "https://crazedcodernate.github.io/SuroiTest/fall-47240854@1x-REPLACER.png"
+            }
+        },
+        "condition": {
+            "urlFilter": "||suroi.io/atlases/fall-47240854@1x.png"
+        }
+    },
+    {
+        "id": 3,
+        "priority": 1,
+        "action": {
+            "type": "redirect",
+            "redirect": {
+                "url": "https://crazedcodernate.github.io/SuroiTest/fall-02a15fd1@1x-REPLACER.png"
+            }
+        },
+        "condition": {
+            "urlFilter": "||suroi.io/atlases/fall-02a15fd1@1x.png"
+        }
+    },
+    {
+        "id": 4,
+        "priority": 1,
+        "action": {
+            "type": "redirect",
+            "redirect": {
+                "url": "https://crazedcodernate.github.io/SuroiTest/fall-a0e6314a@1x-REPLACER.png"
+            }
+        },
+        "condition": {
+            "urlFilter": "||suroi.io/atlases/fall-a0e6314a@1x.png"
+        }
+    },
+    {
+        "id": 5,
+        "priority": 1,
+        "action": {
+            "type": "redirect",
+            "redirect": {
+                "url": "https://crazedcodernate.github.io/SuroiTest/fall-b8f2fc6e@1x-REPLACER.png"
+            }
+        },
+        "condition": {
+            "urlFilter": "||suroi.io/atlases/fall-b8f2fc6e@1x.png"
+        }
+    }
+]

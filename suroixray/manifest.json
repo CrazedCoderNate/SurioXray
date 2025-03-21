@@ -1,0 +1,21 @@
+{
+    "name": "SuroiCheat Sprite Replacement",
+    "version": "1.0",
+    "description": "Redirects Suroi's original spritesheet to a custom one (Manifest V3)",
+    "manifest_version": 3,
+    "permissions": [
+        "declarativeNetRequest"
+    ],
+    "host_permissions": [
+        "*://suroi.io/*"
+    ],
+    "declarative_net_request": {
+        "rule_resources": [
+            {
+                "id": "ruleset_1",
+                "enabled": true,
+                "path": "rules.json"
+            }
+        ]
+    }
+}
