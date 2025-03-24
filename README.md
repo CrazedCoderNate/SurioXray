@@ -1,5 +1,7 @@
 # SuroiXRay Extension
 
+Allows for X-raying buildings, trees, etc on suroi.io
+
 ## Installation Steps
 
 1. **Download the SuroiXRay Folder**  
