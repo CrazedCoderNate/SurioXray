@@ -16,15 +16,15 @@ const ORIGINAL_SPRITE_5 =
 
 
 const CUSTOM_SPRITE_1 =
-    "https://crazedcodernate.github.io/SuroiTest/fall-02a15fd1@1x-REPLACER.png";
+    "https://crazedcodernate.github.io/SuroiXray/fall-02a15fd1@1x-REPLACER.png";
 const CUSTOM_SPRITE_2 =
-    "https://crazedcodernate.github.io/SuroiTest/fall-47240854@1x-REPLACER.png";
+    "https://crazedcodernate.github.io/SuroiXray/fall-47240854@1x-REPLACER.png";
 const CUSTOM_SPRITE_3 =
-    "https://crazedcodernate.github.io/SuroiTest/fall-53201d69@1x-REPLACER.png";
+    "https://crazedcodernate.github.io/SuroiXray/fall-53201d69@1x-REPLACER.png";
 const CUSTOM_SPRITE_4 =
-    "https://crazedcodernate.github.io/SuroiTest/fall-a0e6314a@1x-REPLACER.png";
+    "https://crazedcodernate.github.io/SuroiXray/fall-a0e6314a@1x-REPLACER.png";
 const CUSTOM_SPRITE_5 =
-    "https://crazedcodernate.github.io/SuroiTest/fall-b8f2fc6e@1x-REPLACER.png";
+    "https://crazedcodernate.github.io/SuroiXray/fall-b8f2fc6e@1x-REPLACER.png";
 
 // Listen for requests BEFORE they are sent
 chrome.webRequest.onBeforeRequest.addListener(
