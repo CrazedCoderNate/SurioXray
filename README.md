@@ -26,3 +26,5 @@ Allows for X-raying buildings, trees, etc on suroi.io
      ```
      suroi.io
      ```
+6. **Coming soon**
+   Survev.io seems to be more popular. I will implement aimbot, modifiable zoom and xray.
