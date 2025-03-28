@@ -28,3 +28,6 @@ Allows for X-raying buildings, trees, etc on suroi.io
      ```
 6. **Coming soon**
    Survev.io seems to be more popular. I will implement aimbot, modifiable zoom and xray.
+
+7. **How it works**
+   Extension listens for requests for specific files and swaps them out for spoofed images.
